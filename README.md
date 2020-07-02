@@ -1,4 +1,4 @@
-# Online Resource 1: Locally adaptive change-point detection with applications to remote sensing and land use changes
+# Supplementary Material: Locally adaptive change-point detection with applications to remote sensing and land use changes
 
 
 This repository provides the corresponding data-sets and R codes of
